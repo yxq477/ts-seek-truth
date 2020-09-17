@@ -7,7 +7,42 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.first-color { 
+	background: #00bcd4; 
+}
+
+.second-color { 
+	background: #b2ebf2; 
+}
+
+.third-color { 
+	background: #ff5722; 
+}
+
+.fourth-color { 
+	background: #dd2c00; 
+}
+
+.primary-text { 
+  color: #212121; 
+  /* best point size 15-25px 20px */
+  font-size: 20px;
+  /* best linespace 120%-145% 130% */
+  line-height: 26px;
+  /* line length 45-90 */
+}
+
+.secondary-text { 
+  color: #757575; 
+  font-size: 16px;
+  /* best linespace 120%-145% 130% */
+  line-height: 21px;
+}
+
+.divider-color { 
+	color: #BDBDBD; 
+}
+
+.icon-color { 
+	color: #000000; 
 }
