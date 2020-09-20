@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d04b3b8d4c67a05c8400a098b0c77397",
+    "revision": "12758e325090e536f14cbce773066c56",
     "url": "/ts-seek-truth/index.html"
   },
   {
-    "revision": "4733991cdcec87b54a4a",
+    "revision": "0dd7946357d85c043bd7",
     "url": "/ts-seek-truth/static/css/main.34853bf6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ts-seek-truth/static/js/2.149ff28d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4733991cdcec87b54a4a",
-    "url": "/ts-seek-truth/static/js/main.87febdf0.chunk.js"
+    "revision": "0dd7946357d85c043bd7",
+    "url": "/ts-seek-truth/static/js/main.ed7d89d7.chunk.js"
   },
   {
     "revision": "f1c2df9cb502bec78ef8",

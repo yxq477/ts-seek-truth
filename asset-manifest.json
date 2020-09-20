@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ts-seek-truth/static/css/main.34853bf6.chunk.css",
-    "main.js": "/ts-seek-truth/static/js/main.87febdf0.chunk.js",
-    "main.js.map": "/ts-seek-truth/static/js/main.87febdf0.chunk.js.map",
+    "main.js": "/ts-seek-truth/static/js/main.ed7d89d7.chunk.js",
+    "main.js.map": "/ts-seek-truth/static/js/main.ed7d89d7.chunk.js.map",
     "runtime-main.js": "/ts-seek-truth/static/js/runtime-main.039e178b.js",
     "runtime-main.js.map": "/ts-seek-truth/static/js/runtime-main.039e178b.js.map",
     "static/js/2.149ff28d.chunk.js": "/ts-seek-truth/static/js/2.149ff28d.chunk.js",
     "static/js/2.149ff28d.chunk.js.map": "/ts-seek-truth/static/js/2.149ff28d.chunk.js.map",
     "index.html": "/ts-seek-truth/index.html",
-    "precache-manifest.d3c68eb19443b2fe0dddf6973c0e8999.js": "/ts-seek-truth/precache-manifest.d3c68eb19443b2fe0dddf6973c0e8999.js",
+    "precache-manifest.aac4e47f71b59378da26d7c0e2ff2eff.js": "/ts-seek-truth/precache-manifest.aac4e47f71b59378da26d7c0e2ff2eff.js",
     "service-worker.js": "/ts-seek-truth/service-worker.js",
     "static/css/main.34853bf6.chunk.css.map": "/ts-seek-truth/static/css/main.34853bf6.chunk.css.map",
     "static/js/2.149ff28d.chunk.js.LICENSE.txt": "/ts-seek-truth/static/js/2.149ff28d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.039e178b.js",
     "static/js/2.149ff28d.chunk.js",
     "static/css/main.34853bf6.chunk.css",
-    "static/js/main.87febdf0.chunk.js"
+    "static/js/main.ed7d89d7.chunk.js"
   ]
 }
