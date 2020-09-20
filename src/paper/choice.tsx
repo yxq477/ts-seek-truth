@@ -2,10 +2,12 @@ import React from 'react';
 
 function Choice(props:any) {
   return (
-    <div className="primary-text choice-item" onClick={()=> props.click()}> 
-     <input type="checkbox" name="" id=""/>选项A：
+    <div 
+    className={'primary-text choice-item ' + (props.choosedAnswer === props.value && 'choosed')}
+    onClick={()=> props.click(props.value)}> 
+     <input type="checkbox" name="" id=""/>选项{props.value}：
      <br/>
-     123567890
+     {props.label}
     </div>
   );
 }
