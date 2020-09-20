@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ts-seek-truth/precache-manifest.9df31d44898f07635fed6d6c05d693f8.js"
+  "/ts-seek-truth/precache-manifest.d3c68eb19443b2fe0dddf6973c0e8999.js"
 );
 
 self.addEventListener('message', (event) => {
