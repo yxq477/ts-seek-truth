@@ -5,14 +5,16 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  --first-bg-color: #00bcd4;
+  --second-bg-color: #b2ebf2;
+  --primary-text: #000000;
 }
-
 .first-color { 
-	background: #00bcd4; 
+	background: var(--first-bg-color); 
 }
 
 .second-color { 
-	background: #b2ebf2; 
+	background: var(--second-bg-color); 
 }
 
 .third-color { 
@@ -24,7 +26,7 @@ body {
 }
 
 .primary-text { 
-  color: #212121; 
+  color: var(--primary-text); 
   /* best point size 15-25px 20px */
   font-size: 20px;
   /* best linespace 120%-145% 130% */

@@ -38,5 +38,5 @@
   position: relative;
 }
 .choosed {
-	background: #b2ebf2; 
+	background: var(--second-bg-color);
 }
